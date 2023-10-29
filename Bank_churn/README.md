@@ -8,7 +8,7 @@
 - python
 - pandas
 - numpy
-- from sklearn.tree.DecisionTreeClassifier
+- sklearn.tree.DecisionTreeClassifier
 - sklearn.linear_model.LogisticRegression
 - sklearn.ensemble.RandomForestClassifier
 
