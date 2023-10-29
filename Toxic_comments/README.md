@@ -12,7 +12,7 @@
 - sklearn.linear_model.LogisticRegression
 - sklearn.ensemble.RandomForestClassifier
 - lightgbm
-- 
+
 # Вывод
 
 Была проведена исследовательская работа по обработке текстов и обучению и выбору модели для определения токсичных комментариев по методу TF-IDF. Выбрана модель LightGBM.
